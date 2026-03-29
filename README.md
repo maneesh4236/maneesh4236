@@ -1,25 +1,52 @@
-# 👋 Hi, I'm Maneesh
+# 👋 Hi, I'm Maneesh Sutrave
 
-🚀 AI & Backend Developer | RAG Systems | FastAPI | ML Enthusiast
+🚀 Software Engineer | AI & RAG Systems | Backend Developer
 
 ---
 
 ## 🧠 About Me
 
-* 🔭 Currently working on **RAG-based AI systems**
-* 🌱 Learning **Advanced LLM + System Design**
-* 💡 Interested in **AI, Backend, and Scalable Systems**
-* ⚡ Goal: Crack **Top Product-Based Company (18+ LPA)**
+* 💼 Software Engineer @ Societe Generale (Java Full Stack)
+* 🚀 Building **AI-powered systems using RAG, LLMs, and FastAPI**
+* ⚡ Experienced in **microservices, distributed systems, and CI/CD**
 
 ---
 
 ## 🚀 Featured Project
 
-### 🚗 AI Car Leasing Assistant
+### 🚗 CARSIFY – AI Car Leasing Assistant (RAG System)
 
-* Built a **RAG-based chatbot** for car recommendations
-* Used **FastAPI + LangChain + ChromaDB**
-* Supports **semantic search over structured car data**
+* Built a **RAG-based chatbot** for intelligent car recommendations
+* Used **FastAPI, LangChain, ChromaDB, and LLMs**
+* Implemented **semantic search over structured car data**
+* Improved response accuracy using **vector embeddings & retrieval pipelines**
+
+---
+
+## 💼 Work Experience
+
+### 🏢 Software Engineer – Java Full Stack
+
+**Societe Generale, Bengaluru**
+📅 Mar 2024 – Present
+
+* 🚀 Improved system reliability by **25%** by optimizing distributed scheduling system
+* 🛠️ Reduced technical debt by **30%** using SonarQube remediation
+* ⚡ Improved UI performance & reduced defects by **20%**
+* 🔁 Automated CI/CD pipelines → **35% faster deployments**
+* 🧩 Built scalable microservices using **Spring Boot & REST APIs**
+
+---
+
+### 💻 Software Engineer Intern – Full Stack
+
+**Light & Wonder (Scientific Games)**
+📅 Jan 2023 – Jun 2023
+
+* 🌐 Built full-stack features using **ASP.NET, Angular, JS**
+* ⚡ Optimized DB queries → improved performance
+* 🔐 Designed secure REST APIs
+* 👨‍💻 Worked in Agile (sprints, code reviews, deployments)
 
 ---
 
@@ -27,26 +54,65 @@
 
 ### 💻 Languages
 
-Python | Java | C++
+Python | Java | C++ | SQL
 
 ### ⚙️ Backend & Frameworks
 
-FastAPI | Flask | Spring Boot
+FastAPI | Spring Boot | ASP.NET | React | Angular
 
 ### 🤖 AI / ML
 
-LangChain | RAG | HuggingFace | Vector DB (Chroma)
+RAG | LLMs | NLP | CNN | HuggingFace | ChromaDB
 
-### 🗄️ Database
+### 🗄️ Databases
 
-MySQL | MongoDB
+MySQL | Oracle | SQL Server
+
+### ⚡ Tools & DevOps
+
+Git | Jenkins | CI/CD | Linux | Postman | JIRA
+
+---
+
+## 🚀 Projects
+
+### 🎵 Music Genre Classification
+
+* Built CNN model with **18% better accuracy**
+* Compared ML models (KNN, SVM, Random Forest)
+* Designed recommendation system
+
+---
+
+### 🎥 Smart Attendance System
+
+* Face recognition system (**95%+ accuracy**)
+* Reduced manual effort by **70%**
+* Used OpenCV, Haar Cascade, LBPH
+
+---
+
+## 🏆 Achievements
+
+* 🎓 Student Head – NSS
+* 📚 Member – Telugu Literary Club
+* 🌱 Member – Exnora
+
+---
+
+## 📜 Certifications
+
+* Full Stack Development – Entrench Electronics
+* Front-End Development – ProGrad
+* Python & HTML – Coursera
 
 ---
 
 ## 🌐 Connect with Me
 
-* 💼 LinkedIn: (add link)
-* 📧 Email: (add email)
+* 💼 LinkedIn: https://www.linkedin.com/in/maneesh-sutrave-921754206/
+* 📧 Email: [smaneesh79@gmail.com](mailto:smaneesh79@gmail.com)
+* 💻 GitHub: https://github.com/maneesh4236
 
 ---
 
